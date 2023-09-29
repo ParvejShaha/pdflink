@@ -1,0 +1,36 @@
+body{
+   border-style:solid;
+   border-width: 3px;
+   border-radius  : 20px;
+  }
+   
+H1{
+       
+      
+         color: rgb(74, 243, 127);
+           font-size: 25px;
+           width: auto;
+           height: auto;
+           text-align: center;
+           margin: 20px auto 15px auto;
+            border-style:groove ; 
+            border-width: 4px;  
+            border-color: rgb(226, 140, 207);
+            border-radius: 10px;
+            background-color: rgb(1, 0, 12);
+           
+           }
+              
+
+   h2{
+      text-align: center;
+     
+
+   }
+
+ 
+ 
+ 
+ 
+
+
